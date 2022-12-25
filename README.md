@@ -1,2 +1,2 @@
 # Berkeley-Grade-Distribution-Game
-Match the grade distribution to the UC Berkeley course!
+Test your knowledge of UC Berkeley course grade distributions with this game - match the grade distribution chart to the UC Berkeley course!
