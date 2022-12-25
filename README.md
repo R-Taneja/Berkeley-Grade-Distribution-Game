@@ -1,2 +1,2 @@
-# Cal-Grade-Distribution-Game
+# Berkeley-Grade-Distribution-Game
 Match the grade distribution to the UC Berkeley course!
